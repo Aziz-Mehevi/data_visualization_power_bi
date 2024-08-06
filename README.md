@@ -46,6 +46,22 @@ in MySQL workbench.
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
+### Data Visualization Using PowerBI
+
+### Instructions to access PowerBI Dashboard on your local computer
+
+1. Download Microsoft PowerBI on your computer.
+
+1. Open `sales_insights_power_bi.pbix` file to access dashboard.
+
+1. Now you can dashboards of 'Key Insights', 'Profit Analysis' and
+   'Performance Insights'.
+   
+
+ 
+   
+   
+
 
 
 
